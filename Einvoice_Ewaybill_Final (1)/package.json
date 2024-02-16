@@ -27,6 +27,8 @@
       "@sap/ui5-builder-webide-extension"
     ]
   },
+
+  
   "private": true,
   "sapuxLayer": "CUSTOMER_BASE",
   "keywords": [
